@@ -1,0 +1,4 @@
+.DS_Store
+build.xml
+nbproject/**/*
+manifest.imf
